@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://knmuhina.github.io/sitemap.xml
