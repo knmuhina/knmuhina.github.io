@@ -22,11 +22,17 @@ affiliations:
     url: https://rudn.ru/
 
 links:
+  - icon: brands/orcid
+    url: https://orcid.org/0009-0007-6448-2861
   - icon: at-symbol
     url: mailto:1032253531@rudn.ru
     label: E-mail Me
+  - icon: brands/orcid
+    url: https://www.researchgate.net/profile/Ksenia-Muhina-2
   - icon: brands/github
     url: https://github.com/knmuhina
+  - icon: brands/orcid
+    url: https://independent.academia.edu/KMuhina
 
 interests:
   - Programming
